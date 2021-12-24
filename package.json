@@ -17,7 +17,7 @@
     "dotenv": "^10.0.0",
     "expmidd": "0.7.0",
     "express": "^4.17.1",
-    "helmet": "^3.21.3",
+    "helmet": "^4.0.0",
     "http-status": "^1.4.2",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.6.7",
