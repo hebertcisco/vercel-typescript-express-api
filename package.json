@@ -14,7 +14,7 @@
     "compression": "^1.7.4",
     "cors": "^2.8.5",
     "date-fns": "^2.14.0",
-    "dotenv": "^10.0.0",
+    "dotenv": "^14.0.0",
     "expmidd": "0.7.0",
     "express": "^4.17.1",
     "helmet": "^5.0.0",
