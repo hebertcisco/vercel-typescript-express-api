@@ -39,7 +39,7 @@
     "eslint-plugin-import": "2.26.0",
     "nodemon": "2.0.19",
     "prettier": "2.7.1",
-    "sucrase": "3.25.0",
+    "sucrase": "3.29.0",
     "typescript": "4.7.4"
   },
   "description": "REST API example to deploy in Vercel(Typescript, Express. MongoDB)",
