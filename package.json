@@ -41,7 +41,7 @@
     "@types/mongoose": "5.11.96",
     "@types/morgan": "^1.9.3",
     "@types/node": "18.11.17",
-    "@vercel/node": "2.8.1",
+    "@vercel/node": "2.8.2",
     "eslint": "8.30.0",
     "eslint-config-airbnb-base": "15.0.0",
     "eslint-config-prettier": "8.5.0",
