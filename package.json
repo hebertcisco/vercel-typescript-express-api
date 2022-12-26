@@ -33,7 +33,7 @@
     "@types/helmet": "^4.0.0",
     "@types/mongoose": "5.11.96",
     "@types/morgan": "^1.9.3",
-    "@types/node": "^16.18.10",
+    "@types/node": "^18.11.17",
     "@vercel/node": "2.5.6",
     "body-parser": "^1.20.0",
     "compression": "^1.7.4",
