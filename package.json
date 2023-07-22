@@ -1,6 +1,6 @@
 {
   "name": "vercel-typescript-express-api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "REST API example to deploy in Vercel(Typescript, Express. MongoDB)",
   "main": "dist/server.js",
   "types": "dist/server.d.ts",
