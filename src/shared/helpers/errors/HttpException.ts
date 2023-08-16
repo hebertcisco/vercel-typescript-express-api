@@ -18,11 +18,14 @@ export class HttpException {
     errors: string | null = null
   ) {
     console.info(message);
+
     this.message = {
       statusCode,
       message: typeof message === 'string' ? message : message.message,
     };
+
     this.errors = errors;
+
     this.statusCode = statusCode;
   }
 }
