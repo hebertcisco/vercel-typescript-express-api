@@ -6,6 +6,7 @@ export function gracefulShutdown(
   code: string
 ): (event: string) => void {
   const logger: Logger = new Logger(gracefulShutdown.name);
+
   return (event: string): void => {
     logger.info(`${event} signal received with code ${code}`);
     logger.log('Closing http server...');
