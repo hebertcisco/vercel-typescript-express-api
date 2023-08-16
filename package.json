@@ -45,7 +45,7 @@
     "helmet": "^5.1.1",
     "mongoose": "^6.11.3",
     "morgan": "^1.10.0",
-    "nest-shared": "^0.4.56",
+    "nest-shared": "^5.0.3",
     "rimraf": "^3.0.2"
   },
   "devDependencies": {
