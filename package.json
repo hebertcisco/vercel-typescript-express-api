@@ -22,8 +22,7 @@
     "postversion": "git push && git push --tags"
   },
   "engines": {
-    "node": ">=18",
-    "npm": ">=9"
+    "node": ">=16"
   },
   "dependencies": {
     "@types/body-parser": "^1.19.2",
